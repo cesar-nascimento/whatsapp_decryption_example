@@ -6,3 +6,6 @@
 * https://github.com/casebeer/python-hkdf/blob/master/hkdf.py
 * https://securityboulevard.com/2020/01/how-to-decrypt-whatsapp-end-to-end-media-files/
 * https://github.com/robertdavidgraham/whats-enc/blob/master/backend/whats-enc.py
+## Requirements
+* Python 3.6+
+* https://cryptography.io/en/latest/
